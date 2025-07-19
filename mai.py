@@ -1,3 +1,3 @@
-# programa demonstra a passagem de minúscula para maiúscula de uma string .
-message = "cavalo"
-print(message.upper())
+# programa demonstra a passagem de maiúscula para minúscula de uma string .
+message = "CAVALO"
+print(message.lower())
